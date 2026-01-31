@@ -77,16 +77,16 @@ G. Screenshots:
 The following screenshots are available in the docs/screenshots directory:
 
 Successful CRUD
-![Successful CRUD](Assignment4/docs/ screenshots/suc_execution.png)
+![Successful CRUD](Assignment4/docs/screenshots/suc_execution.png)
 
 Validation failures
-![Validation Failures](Assignment4/docs/ screenshots/other_outputs_allinone.png)
+![Validation Failures](Assignment4/docs/screenshots/other_outputs_allinone.png)
 
 Reflection utility output
-![Reflection Output](Assignment4/docs/ screenshots/reflection_output.png)
+![Reflection Output](Assignment4/docs/screenshots/reflection_output.png)
 
 Sorted lists showing lambdas
-![Sorted Lists](Assignment4/docs/ screenshots/other_outputs_allinone.png)
+![Sorted Lists](Assignment4/docs/screenshots/other_outputs_allinone.png)
 
 H. Reflection:
 
