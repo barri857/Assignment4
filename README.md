@@ -32,7 +32,7 @@ Composition relationships A composition relationship exists between Property and
 Polymorphism examples Polymorphism is demonstrated by iterating through a list of Property objects and calling displayBasicInfo. The JVM calls the correct subclass version at runtime.
 
 UML diagram An updated class diagram is provided in the docs/uml.png file to visualize the system structure.
-![UML Diagram](docs/screenshots/uml.diagram.png)
+![UML Diagram](./Assignment4/docs/screenshots/uml.diagram.png)
 
 D. Database Section:
 
