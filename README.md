@@ -32,7 +32,7 @@ Composition relationships A composition relationship exists between Property and
 Polymorphism examples Polymorphism is demonstrated by iterating through a list of Property objects and calling displayBasicInfo. The JVM calls the correct subclass version at runtime.
 
 UML diagram An updated class diagram is provided in the docs/uml.png file to visualize the system structure.
-![UML Diagram](docs/uml.png)
+![UML Diagram](docs/screenshots/uml.diagram.png)
 
 D. Database Section:
 
@@ -76,17 +76,17 @@ G. Screenshots:
 
 The following screenshots are available in the docs/screenshots directory:
 
-Successful CRUD operations showing data saved to DB.
+Successful CRUD
 ![Successful CRUD](docs/screenshots/suc_execution.png)
 
-Validation failures when entering negative prices.
-Sorted property lists demonstrating lambda functionality.
-![Database & Validation & Lambda Sorting](docs/screenshots/other_outputs_allinone.png)
+Validation failures
+![Validation Failures](docs/screenshots/other_outputs_allinone.png)
 
+Reflection utility output
+![Reflection Output](docs/screenshots/reflection_output.png)
 
-Reflection utility output listing class metadata.
-![Reflection_output](docs/screenshots/reflection_output.png)
-
+Sorted lists showing lambdas
+![Sorted Lists](docs/screenshots/other_outputs_allinone.png)
 
 H. Reflection:
 
